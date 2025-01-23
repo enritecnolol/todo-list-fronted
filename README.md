@@ -29,8 +29,8 @@ A modern, responsive Todo application built with Next.js 14, TypeScript, and Tai
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/enritecnolol/todo-list-fronted.git
+cd todo-list-fronted
 ```
 
 2. Create a `.env` file in the root directory:
